@@ -14,4 +14,6 @@ These projects were implemented by [Rachit Belwariar](https://in.linkedin.com/in
 
 All the projects have been implemented in **C** and **C++**
 
+## Contents-
 
+1. [K-Core of a graph](https://github.com/gbelwariar/Self-Made-Projects/tree/master/K-Core-of-a-graph)
