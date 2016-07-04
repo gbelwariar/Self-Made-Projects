@@ -8,7 +8,7 @@ Many of these projects are aimed to "**play**" with unconventional data structur
 
 ## Awards won by these projects-
 
-These projects won me the title of [Geek of the Month](http://www.geeksforgeeks.org/geek-of-the-month/), for July 2016 given by [GeeksforGeeks.org](http://www.geeksforgeeks.org/)
+These projects won me the title of [Geek of the Month](http://www.geeksforgeeks.org/geek-of-the-month/), for June 2016 given by [GeeksforGeeks.org](http://www.geeksforgeeks.org/)
 
 
 ## Credits
@@ -24,3 +24,4 @@ All the projects have been implemented in **C** and **C++**
 ## Contents-
 
 1. [K-Core of a graph](https://github.com/gbelwariar/Self-Made-Projects/tree/master/K-Core-of-a-graph)
+2. [Mother Vertex of a graph](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Mother-Vertex-of-a-graph)
