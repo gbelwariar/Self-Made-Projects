@@ -6,6 +6,11 @@ Some of the most interesting and successful projects were made in an attempt to 
 Many of these projects are aimed to "**play**" with unconventional data structures (like- Cartesian Tree, Sparse Set) and some of them are "**serious**" algorithms designed just to get a slight performance edge over the existing popular algorithms (like- Tarjan Offline Least Common Ancestor Algorithm whose analysis involves inverse Ackermann function without a pain).
 
 
+## Awards won by these projects-
+
+These projects won me the title of [Geek of the Month](http://www.geeksforgeeks.org/geek-of-the-month/), for July 2016 given by [GeeksforGeeks.org](http://www.geeksforgeeks.org/)
+
+
 ## Credits
 
 These projects were implemented by [Rachit Belwariar](https://in.linkedin.com/in/rachit-belwariar-a23229ab)
