@@ -10,9 +10,11 @@ Many of these projects are aimed to "**play**" with unconventional data structur
 
 These projects were implemented by [Rachit Belwariar](https://in.linkedin.com/in/rachit-belwariar-a23229ab)
 
+
 ## Language/Technologies Used-
 
 All the projects have been implemented in **C** and **C++**
+
 
 ## Contents-
 
