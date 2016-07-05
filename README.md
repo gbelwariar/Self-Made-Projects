@@ -13,12 +13,12 @@ These projects won me the title of [Geek of the Month](http://www.geeksforgeeks.
 
 ## Projects Timeline
 
-These projects were successfully implemented continuously from **[February 2016 - Current]** and successfully compiled on - **July 2016**.
+These projects were successfully implemented continuously from **[February 2016 - Current]** and published on [GeeksforGeeks](http://www.geeksforgeeks.org/)
 
 
 ## Credits
 
-These projects were implemented by [Rachit Belwariar](https://in.linkedin.com/in/rachit-belwariar-a23229ab)
+These projects were implemented, tested and compiled together by [Rachit Belwariar](https://in.linkedin.com/in/rachit-belwariar-a23229ab)
 
 
 ## Phases of the Projects-
@@ -26,7 +26,8 @@ These projects were implemented by [Rachit Belwariar](https://in.linkedin.com/in
 **Requirements** - Any C/C++ Compiler would work.<br/>
 **Design** - The projects are well commented and each project is accompanied with its respective Project Manual.<br/>
 **Implementation** - Implemented using C/C++.<br/>
-**Testing/Debugging** - Several tests have been run on all the projects by generating random test cases. The projects have been published on [GeeksforGeeks](http://www.geeksforgeeks.org/) and is always at check by the heavy traffic of its readers.<br/>
+**Testing/Debugging** - Several tests have been run on all the projects by generating random test cases. The projects have been published on [GeeksforGeeks](http://www.geeksforgeeks.org/) and is always at check by the heavy traffic of its readers.
+The test cases are not included with the projects intentionally. Any one interested in the test cases can contact me on **gbelwariar@gmail.com**<br/>
 **Maintenance** -The projects are maintained from time to time. All suggestions are welcome.<br/>
 
 
