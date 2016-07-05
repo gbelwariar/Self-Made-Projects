@@ -26,9 +26,18 @@ These projects were implemented by [Rachit Belwariar](https://in.linkedin.com/in
 All the projects have been implemented in **C** and **C++**
 
 
-## Best Projects
+## My 10 Best Projects (in no specific order)
 
-// Include the best projects
+1. [A* Search Algorithm](https://github.com/gbelwariar/Self-Made-Projects/tree/master/A-Star-Search-Algorithm)
+2. [Minesweeper](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Minesweeper)
+3. [Tic-Tac-Toe](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Tic-Tac-Toe)
+4. [Tarjan Offline Least Common Ancestor Algorithm](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Tarjan-Offline-Least-Common-Ancestor-Algorithm)
+5. [Sparse Set Data Structure](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Sparse-Set)
+6. [Cartesian Tree Data Structure](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Cartesian-Tree) and [Cartesian Tree Sorting](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Cartesian-Tree-Sorting)
+7. [Introsort-Inside of C++'s sort() Function](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Introsort-C-Plus-Plus-Sorting-Weapon)
+8. [Calendar](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Implement-Calendar-Of-Any-Year)
+9. [Longest Common Extension-Segment Tree Method](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Longest-Common-Extension-Segment-Tree)
+10. [Mother Vertex of a Graph](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Mother-Vertex-of-a-graph)
 
 
 ## Other Projects
