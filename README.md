@@ -8,7 +8,7 @@ Many of these projects are aimed to "**play**" with unconventional data structur
 
 ## Awards Won
 
-These projects won me the title of [Geek of the Month](http://www.geeksforgeeks.org/geek-of-the-month/), for June 2016 given by [GeeksforGeeks.org](http://www.geeksforgeeks.org/)
+These projects won me the title of [Geek of the Month](http://www.geeksforgeeks.org/geek-of-the-month/), for June 2016 given by [GeeksforGeeks](http://www.geeksforgeeks.org/)
 
 
 ## Projects Timeline
@@ -24,8 +24,8 @@ These projects were implemented, tested and compiled together by [Rachit Belwari
 ## Phases of the Projects-
 
 **Requirements** - Any C/C++ Compiler would work.<br/>
-**Design** - The projects are well commented and each project is accompanied with its respective Project Manual.<br/>
-**Implementation** - Implemented using C/C++.<br/>
+**Design** - The projects are well commented and each project is accompanied with its respective Project Manual for convenience of the readers.<br/>
+**Implementation** - Implemented using C/C++. I have planned to implement them in other languages like-Python in near future.<br/>
 **Testing/Debugging** - Several tests have been run on all the projects by generating random test cases. The projects have been published on [GeeksforGeeks](http://www.geeksforgeeks.org/) and is always at check by the heavy traffic of its readers.
 The test cases are not included with the projects intentionally. Any one interested in the test cases can contact me on **gbelwariar@gmail.com**<br/>
 **Maintenance** -The projects are maintained from time to time. All suggestions are welcome.<br/>
