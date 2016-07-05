@@ -21,9 +21,13 @@ These projects were successfully implemented continuously from **[February 2016 
 These projects were implemented by [Rachit Belwariar](https://in.linkedin.com/in/rachit-belwariar-a23229ab)
 
 
-## Language/Technologies Used
+## Phases of the Projects-
 
-All the projects have been implemented in **C** and **C++**
+**Requirements** - Any C/C++ Compiler would work.<br/>
+**Design** - The projects are well commented and each project is accompanied with its respective Project Manual.<br/>
+**Implementation** - Implemented using C/C++.<br/>
+**Testing/Debugging** - Several tests have been run on all the projects by generating random test cases. The projects have been published on [GeeksforGeeks](http://www.geeksforgeeks.org/) and is always at check by the heavy traffic of its readers.<br/>
+**Maintenance** -The projects are maintained from time to time. All suggestions are welcome.<br/>
 
 
 ## My 10 Best Projects (in no specific order)
