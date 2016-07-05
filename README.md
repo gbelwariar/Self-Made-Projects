@@ -1,5 +1,5 @@
 # Self-Made-Projects
-A list of projects made by me. Several other projects have been initiated and still under pipeline.
+A list of projects made by me. Several other projects have been initiated and still under pipeline. 
 
 Some of the most interesting and successful projects were made in an attempt to have "**fun**" such as - A* Search Algorithm, Minesweeper, Tic-Tac-Toe etc.
 
@@ -9,6 +9,11 @@ Many of these projects are aimed to "**play**" with unconventional data structur
 ## Awards Won
 
 These projects won me the title of [Geek of the Month](http://www.geeksforgeeks.org/geek-of-the-month/), for June 2016 given by [GeeksforGeeks.org](http://www.geeksforgeeks.org/)
+
+
+## Projects Timeline
+
+These projects were successfully implemented continuously from **[February 2016 - Current]** and successfully compiled on - **July 2016**.
 
 
 ## Credits
