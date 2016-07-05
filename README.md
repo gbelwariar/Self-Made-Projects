@@ -40,8 +40,19 @@ All the projects have been implemented in **C** and **C++**
 10. [Mother Vertex of a Graph](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Mother-Vertex-of-a-graph)
 
 
-## Other Projects
+## All Projects
 
-1. [K-Core of a graph](https://github.com/gbelwariar/Self-Made-Projects/tree/master/K-Core-of-a-graph)
-2. [Mother Vertex of a graph](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Mother-Vertex-of-a-graph)
-3. 
+1. [2D-Binary Indexed Tree Fenwick Tree](https://github.com/gbelwariar/Self-Made-Projects/tree/master/2D-Binary-Indexed-Tree-Fenwick-Tree)
+2. [A-Star Search Algorithm](https://github.com/gbelwariar/Self-Made-Projects/tree/master/A-Star-Search-Algorithm)
+3. [Almost Prime Numbers](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Almost-Prime-Numbers)
+4. [Cartesian Tree Sorting](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Cartesian-Tree-Sorting)
+5. [Cartesian Tree](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Cartesian-Tree)
+6. [Change Gender Of A String](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Change-Gender-Of-A-String)
+7. [Combinations with Repetitions](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Combinations-with-Repetitions)
+8. [Combinatorial Game Theory - Game of Nim](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Combinatorial-Game-Theory-Game-of-Nim)
+9. [Combinatorial Game Theory - Nimbers and Mex](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Combinatorial-Game-Theory-Nimbers-and-Mex)
+10. [Combinatorial Game Theory - Sprague-Grundy Theorem](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Combinatorial-Game-Theory-Sprague-Grundy-Theorem)
+11. [My Favourite Dynamic Programming Problem](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Favourite-Dynamic-Programming-Problem)
+12. [Four File-Handling Hacks Which Every Programmer Must Know](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Four-File-Handling-Hacks-Which-Every-Programmer-Must-Know)
+13. [Gnome Sort - A Stupid One](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Gnome-Sort-A-Stupid-One)
+14. 
