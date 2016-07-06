@@ -1,4 +1,4 @@
-# Self-Made-Projects
+# Self-Made Projects
 A list of projects made by me. Several other projects have been initiated and still under pipeline. 
 
 Some of the most interesting and successful projects were made in an attempt to have "**fun**" such as - A* Search Algorithm, Minesweeper, Tic-Tac-Toe etc.
