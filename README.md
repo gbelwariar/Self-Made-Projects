@@ -23,7 +23,7 @@ These projects were implemented, tested and compiled together by [**Rachit Belwa
 One can also find all my Test Case Generator Programs and Sample Test Cases [**here**](https://github.com/gbelwariar/Self-Made-Test-Case-Generators)
 
 
-## Phases of the Projects-
+## Phases of the Projects
 
 **Requirements** - Any C/C++ Compiler would work.<br/>
 **Design** - The projects are well commented and each project is accompanied with its respective Project Manual for convenience of the readers.<br/>
