@@ -1,3 +1,4 @@
+
 # Self-Made Projects
 A list of projects made by me. Several other projects have been initiated and still under pipeline. 
 
@@ -26,9 +27,10 @@ These projects were implemented, tested and compiled together by [**Rachit Belwa
 **Requirements** - Any C/C++ Compiler would work.<br/>
 **Design** - The projects are well commented and each project is accompanied with its respective Project Manual for convenience of the readers.<br/>
 **Implementation** - All projects are implemented using C/C++. I have planned to implement them in other languages like-Python in near future.<br/>
-**Testing/Debugging** - Several tests have been run on all the projects by generating random test cases. The projects have been published on [**GeeksforGeeks**](http://www.geeksforgeeks.org/) and is always at check by the heavy traffic of its readers.
+**Testing/Debugging** - Several tests have been run on all the projects by generating random test cases. 
 The test-case generators are included with their respective projects. <br/>
 One can also find all my Test Case Generator Programs and Sample Test Cases [**here**](https://github.com/gbelwariar/Self-Made-Test-Case-Generators)<br/>
+The projects have been published on [**GeeksforGeeks**](http://www.geeksforgeeks.org/) and is always at check by the heavy traffic of its readers.<br/>
 **Maintenance** -The projects are maintained from time to time. All suggestions are welcome on **gbelwariar@gmail.com**.<br/>
 
 
