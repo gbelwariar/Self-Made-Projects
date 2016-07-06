@@ -25,14 +25,14 @@ One can also find all my Test Case Generator Programs and Sample Test Cases [**h
 
 ## Phases of the Projects
 
-**Requirements** - Any C/C++ Compiler would work.<br/>
-**Design** - The projects are well commented and each project is accompanied with its respective Project Manual for convenience of the readers.<br/>
-**Implementation** - All projects are implemented using C/C++. I have planned to implement them in other languages like-Python in near future.<br/>
-**Testing/Debugging** - Several tests have been run on all the projects by generating random test cases. 
+**1. Requirements** - Any C/C++ Compiler would work.<br/>
+**2. Design** - The projects are well commented and each project is accompanied with its respective Project Manual for convenience of the readers.<br/>
+**3. Implementation** - All projects are implemented using C/C++. I have planned to implement them in other languages like-Python in near future.<br/>
+**4. Testing/Debugging** - Several tests have been run on all the projects by generating random test cases. 
 The test-case generators are included with their respective projects. <br/>
 One can also find all my Test Case Generator Programs and Sample Test Cases [**here**](https://github.com/gbelwariar/Self-Made-Test-Case-Generators)<br/>
 **Note**- [Minesweeper](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Minesweeper) and [Tic-Tac-Toe](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Tic-Tac-Toe) have in-built test case generators. Hence no test case generators have been included with them.<br/>
-**Maintenance** -The projects are maintained from time to time.
+**5. Maintenance** -The projects are maintained from time to time.
 Majority of my projects have been published on [**GeeksforGeeks**](http://www.geeksforgeeks.org/) and is always at check by the heavy traffic of its readers.<br/>Any suggestions to improve the projects are welcome on **gbelwariar@gmail.com**.<br/>
 
 
