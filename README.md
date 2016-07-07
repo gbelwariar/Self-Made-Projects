@@ -26,7 +26,7 @@ One can also find all my Test Case Generator Programs and Sample Test Cases [**h
 ## Phases of the Projects
 
 **1. Requirements** - Any C/C++ Compiler would work.<br/>
-**2. Design** - The projects are well commented and each project is accompanied with its respective Project Manual for convenience of the readers.<br/>
+**2. Design** - The projects are well commented and each project is accompanied with its respective Project Manual for convenience of the readers.<br/> Also read the **Description.md** file associated with all the projects to get the link of the published projects.
 **3. Implementation** - All projects are implemented using C/C++. I have planned to implement them in other languages like-Python in near future.<br/>
 **4. Testing/Debugging** - Several tests have been run on all the projects by generating random test cases. 
 The test-case generators are included with their respective projects. <br/>
