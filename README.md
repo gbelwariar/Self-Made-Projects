@@ -9,18 +9,18 @@ Many of these projects are aimed to "**play**" with unconventional data structur
 
 ## Awards Won
 
-These projects won me the title of [**Geek of the Month**](http://www.geeksforgeeks.org/geek-of-the-month/), for June 2016 given by [**GeeksforGeeks**](http://www.geeksforgeeks.org/)
+These projects won me the title of [Geek of the Month](http://www.geeksforgeeks.org/geek-of-the-month/), for June 2016 given by [GeeksforGeeks](http://www.geeksforgeeks.org/)
 
 
 ## Projects Timeline
 
-These projects were successfully implemented continuously from **[February 2016 - Current]** and published on [**GeeksforGeeks**](http://www.geeksforgeeks.org/)
+These projects were successfully implemented continuously from **[February 2016 - Current]** and published on [GeeksforGeeks](http://www.geeksforgeeks.org/)
 
 
 ## Credits
 
-These projects were implemented, tested and compiled together by [**Rachit Belwariar**](https://in.linkedin.com/in/rachit-belwariar-a23229ab).<br/>
-One can also find all my Test Case Generator Programs and Sample Test Cases [**here**](https://github.com/gbelwariar/Self-Made-Test-Case-Generators)
+These projects were implemented, tested and compiled together by [Rachit Belwariar](https://in.linkedin.com/in/rachit-belwariar-a23229ab).<br/>
+One can also find all my Test Case Generator Programs and Sample Test Cases [here](https://github.com/gbelwariar/Self-Made-Test-Case-Generators)
 
 
 ## Phases of the Projects
