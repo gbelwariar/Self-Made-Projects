@@ -1,4 +1,4 @@
 # Almost Prime Numbers
 
-This project has been implemented but is kept as a "Draft" for now.
-All suggestions are welcome to improve this project.
+See the article written and implemented by me on ***Almost Prime Numbers*** here- [Almost Prime Numbers](http://www.geeksforgeeks.org/almost-prime-numbers/)
+
