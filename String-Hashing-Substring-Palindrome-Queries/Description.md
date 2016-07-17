@@ -1,4 +1,3 @@
 # String Hashing - Substring Palindrome Queries
 
-This project has been implemented but is kept as a "Draft" for now.
-All suggestions are welcome to improve this project.
+See the article written and implemented by me on ***Substring Palindrome Queries*** here- [Substring Palindrome Queries](http://www.geeksforgeeks.org/palindrome-substring-queries/)
