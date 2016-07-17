@@ -1,4 +1,3 @@
 # Change Gender Of A String
 
-This project has been implemented but is kept as a "Draft" for now.
-All suggestions are welcome to improve this project.
+See the article written and implemented by me on ***Change Gender Of A String*** here- [Change Gender Of A String](http://www.geeksforgeeks.org/change-gender-given-string/)
