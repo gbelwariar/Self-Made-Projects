@@ -1,4 +1,3 @@
 #  One Time Password
 
-This project has been implemented but is kept as a "Draft" for now.
-All suggestions are welcome to improve this project.
+See the article written and implemented by me on ***One Time Password*** here- [One Time Password](http://www.geeksforgeeks.org/generate-one-time-password-unique-identification-url/)
