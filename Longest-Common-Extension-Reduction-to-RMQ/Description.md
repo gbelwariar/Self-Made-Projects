@@ -1,4 +1,3 @@
 # Longest Common Extension - Reduction to RMQ
 
-This project has been implemented but is kept as a "Draft" for now.
-All suggestions are welcome to improve this project.
+See the article written and implemented by me on ***Longest Common Extension - Reduction to RMQ*** here- [Longest Common Extension - Reduction to RMQ](http://www.geeksforgeeks.org/longest-common-extension-lce-set-2-reduction-rmq/)
