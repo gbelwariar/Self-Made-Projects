@@ -1,4 +1,4 @@
 #  Longest Common Extension - Naive Method
 
-This project has been implemented but is kept as a "Draft" for now.
-All suggestions are welcome to improve this project.
+See the article written and implemented by me on ***Longest Common Extension - Naive Method*** here- [Longest Common Extension - Naive Method](http://www.geeksforgeeks.org/longest-common-extension-lce-set-1-introduction-and-naive-method/)
+
