@@ -1,4 +1,3 @@
 # Favourite Dynamic Programming Problem
 
-This project has been implemented but is kept as a "Draft" for now.
-All suggestions are welcome to improve this project.
+See the article written and implemented by me on ***Favourite Dynamic Progamming Problem*** here- [Favourite Dynamic Progamming Problem](http://www.geeksforgeeks.org/maximize-arrj-arri-arrl-arrk-such-that-i-j-k-l/)
