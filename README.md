@@ -92,3 +92,4 @@ Majority of my projects have been published on [GeeksforGeeks](http://www.geeksf
 38. [Tarjan's Offline Least Common Ancestor(LCA) Algorithm](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Tarjan-Offline-Least-Common-Ancestor-Algorithm)
 39. [Tic-Tac-Toe](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Tic-Tac-Toe)
 40. [Number of Ways to Traverse N-ary Tree](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Ways-to-traverse-N-ary-Tree)
+41. [Base64 Encoding (Strings)](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Encode-Base64)
