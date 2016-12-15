@@ -10,18 +10,17 @@ using namespace std;
   For e.g-
   
   Index     Day
-  0			Sunday
-  1			Monday
-  2			Tuesday
-  3			Wednesday
-  4			Thursday
-  5			Friday
-  6			Saturday
+  0	   Sunday
+  1	   Monday
+  2	   Tuesday
+  3	   Wednesday
+  4	   Thursday
+  5	   Friday
+  6	   Saturday
 */
 int dayNumber (int day, int month, int year)
 {
- 
- 	static int t[] = { 0, 3, 2, 5, 0, 3, 5, 1, 4, 6, 2, 4 };
+    static int t[] = { 0, 3, 2, 5, 0, 3, 5, 1, 4, 6, 2, 4 };
     year -= month < 3;
     return ( year + year/4 - year/100 + year/400 + t[month-1] + day) % 7;
 }
@@ -30,17 +29,17 @@ int dayNumber (int day, int month, int year)
   A Function that returns the name of the month
   with a given month number
   
-  Month Number     Name
-  0				   January
-  1				   February
-  2			       March
-  3			       April
-  4		      	   May
-  5			       June
-  6			       July
-  7			       August
-  8			       September
-  9			       October
+  Month Number          Name
+  0		       January
+  1		       February
+  2		       March
+  3		       April
+  4		       May
+  5		       June
+  6		       July
+  7		       August
+  8		       September
+  9		       October
   10		       November
   11		       December
 */
@@ -55,19 +54,19 @@ string getMonthName (int monthNumber)
 /* A Function to return the number of days in
    a month
   
-  Month Number     Name        Number of Days
-  0				   January     31
-  1				   February    28 (non-leap) / 29 (leap)
-  2			       March       31
-  3			       April       30
-  4		      	   May         31
-  5			       June        30
-  6			       July        31
-  7			       August      31
-  8			       September   30
-  9			       October     31
-  10		       November    30
-  11		       December    31
+  Month Number     Name    Number of Days
+  0		  January     31
+  1		  February    28 (non-leap) / 29 (leap)
+  2		  March       31
+  3		  April       30
+  4		  May         31
+  5               June        30
+  6		  July        31
+  7		  August      31
+  8		  September   30
+  9		  October     31
+  10		  November    30
+  11		  December    31
 
 */
 int numberOfDays (int monthNumber, int year)
@@ -81,39 +80,39 @@ int numberOfDays (int monthNumber, int year)
 		// If the year is leap then February has 29 days	
 	    if (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0))
      		return (29);
-     	else
+     	    else
      		return (28);           	
     }
-    // March
+    	// March
 	if (monthNumber == 2)
-    	return (31);
+    		return (31);
 	// April
 	if (monthNumber == 3)
-    	return (30);
+    		return (30);
 	// May
 	if (monthNumber == 4)
-    	return (31);
+    		return (31);
 	// June
 	if (monthNumber == 5)
-    	return (30);
+    		return (30);
 	// July
 	if (monthNumber == 6)
-    	return (31);
+    		return (31);
 	// August
 	if (monthNumber == 7)
-    	return (31);
+    		return (31);
     // September
 	if (monthNumber == 8)
-    	return (30);
+    		return (30);
 	// October
 	if (monthNumber == 9)
-    	return (31);
+    		return (31);
 	// November
 	if (monthNumber == 10)
-    	return (30);
+    		return (30);
 	// December
 	if (monthNumber == 11)
-    	return (31);
+    		return (31);
 }
 
 // Function to print the calendar of the given year
@@ -121,41 +120,37 @@ void printCalendar (int year)
 {
 	printf ("         Calendar - %d\n\n", year);
 	int i, j, k, days;
-    int current = dayNumber (1, 1, year);    // Index of the day from 0 to 6
+    	int current = dayNumber (1, 1, year);    // Index of the day from 0 to 6
 
 	// i --> Iterate through all the months
 	// j --> Iterate through all the days of the month - i
 	for (i = 0; i < 12; i++)
-	 {
-        days = numberOfDays (i, year);  
+	{
+        	days = numberOfDays (i, year);  
         
 		// Print the current month name
-        printf("\n  ------------%s-------------\n", getMonthName (i).c_str());   
+       		 printf("\n  ------------%s-------------\n", getMonthName (i).c_str());   
         
-        // Print the columns
+        	// Print the columns
 		printf("  Sun  Mon  Tue  Wed  Thu  Fri  Sat\n");         
 
 		// Print appropriate spaces
-        for (k = 0; k < current; k++)
-            printf("     ");
+        	for (k = 0; k < current; k++)
+            		printf("     ");
 
-        for (j = 1; j <= days; j++) 
+        	for (j = 1; j <= days; j++) 
 		{
-            printf("%5d", j);
-
-            if (++k > 6) 
+        	    	printf("%5d", j);
+            		if (++k > 6) 
 			{
-            	k = 0;
-			    printf("\n");
-            }
-        } 
-
-        if (k)
-            printf("\n");
-
-        current = k;
-    } 
-
+            			k = 0;
+			    	printf("\n");
+            		}
+        	} 
+		if (k)
+		    printf("\n");
+		current = k;
+    	} 
 	return;    
 }
 
@@ -163,7 +158,6 @@ void printCalendar (int year)
 int main()
 {
 	int year = 2016;
-    printCalendar (year);
-
-    return (0);
+    	printCalendar (year);
+	return (0);
 }
