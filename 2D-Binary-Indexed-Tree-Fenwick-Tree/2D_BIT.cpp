@@ -33,7 +33,7 @@ Constraints -> x1<=x2 and y1<=y2
 	|___________________________
    (0, 0) 					x-->
 
-In this progrm we have assumed a square matrix. The program can be
+In this program we have assumed a square matrix. The program can be
 easily extended to a rectangular one.
 
 */
@@ -58,27 +58,22 @@ void updateBIT(int BIT[][N+1], int x, int y, int val)
 		//This loop update all the 1D BIT inside the array 
 		//of 1D BIT=BIT[x]
 		for(; y <= N; y += (y & -y))
-		{
-        	BIT[x][y] += val;   
-    	}
-    }
-    return;
+        		BIT[x][y] += val;   
+        }
+	return;
 }
 
 // A function to get sum from (0, 0) to (x, y) 
 int getSum(int BIT[][N+1], int x, int y)
 {
 	int sum = 0;
-   
 	for(; x > 0; x -= x&-x)
 	{
 		//This loop sum through all the 1D BIT inside the 
 		//array of 1D BIT=BIT[x]
 		for(; y > 0; y -= y&-y)
-		{
 			sum += BIT[x][y];  
     	}
-    }
 	return sum;
 }
 
@@ -88,21 +83,13 @@ void constructAux(int mat[][N], int aux[][N+1])
 {
 	// Initialise Auxiliary array to 0
 	for (int i=0; i<=N; i++)
-	{
 		for (int j=0; j<=N; j++)
-		{
 			aux[i][j] = 0;
-		}
-	}
 	
 	// Construct the Auxiliary Matrix
 	for (int j=1; j<=N; j++)
-	{
 		for (int i=1; i<=N; i++)
-		{
 			aux[i][j] = mat[N-j][i-1];
-		}
-	}
 	return;
 }
 
@@ -110,15 +97,13 @@ void constructAux(int mat[][N], int aux[][N+1])
 void construct2DBIT(int mat[][N], int BIT[][N+1])
 {
 	// Create an auxiliary matrix            
-    int aux[N+1][N+1]; 
+    	int aux[N+1][N+1]; 
 	constructAux(mat, aux);
-	
+
 	// Initialise the BIT to 0
 	for (int i=1; i<=N; i++)
-	{
 		for (int j=1; j<=N; j++)
 			BIT[i][j] = 0;
-	}
 	
 	for (int j=1; j<=N; j++)  
 	{
@@ -133,9 +118,8 @@ void construct2DBIT(int mat[][N], int BIT[][N+1])
 			
 			//Assigning a value to a particular element of 2D BIT
 			updateBIT(BIT, i, j, aux[i][j]-(v1-v2-v4+v3)); 
-        }
+        	}
 	}
-	 
 	return;	
 }
 
@@ -150,8 +134,7 @@ void answerQueries(Query q[], int m, int BIT[][N+1])
 		int y2 = q[i].y2 + 1;
 		
 		int ans = getSum(BIT, x2, y2)-getSum(BIT, x2, y1-1)-
-				  getSum(BIT, x1-1, y2)+getSum(BIT, x1-1, y1-1);
-		
+				  getSum(BIT, x1-1, y2)+getSum(BIT, x1-1, y1-1);	
 		printf ("Query(%d, %d, %d, %d) = %d\n", q[i].x1, q[i].y1, q[i].x2, q[i].y2, ans);
 	}
 	return;
@@ -182,15 +165,9 @@ int main()
     |
     
  	Hence sum of the sub-matrix = 3+8+1+6+7+5 = 30
- 	
 	*/
-	
 	Query q[] = {{1, 1, 3, 2}, {2, 3, 3, 3}, {1, 1, 1, 1}};
 	int m = sizeof(q)/sizeof(q[0]);
-	
 	answerQueries(q, m, BIT);
-		
 	return(0);
 }
-
-
