@@ -22,10 +22,8 @@ int main()
 	
 	//For random values every time
 	srand(time(NULL));
-	
 	int row;	// Number of rows
 	int col; 	// Number of columns
-		
 	for (int i=1; i<=RUN; i++)
 	{
 		row = 1 + rand() % MAXROW;
@@ -43,7 +41,6 @@ int main()
 		}
 		printf("\n");			
 	}
-		
 	fclose(stdout);
 	return(0);
 }
