@@ -33,7 +33,7 @@ The test-case generators are included with their respective projects. <br/>
 One can also find all my Test Case Generator Programs and Sample Test Cases [here](https://gbelwariar.github.io/Self-Made-Test-Case-Generators/)<br/>
 **Note**- [Minesweeper](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Minesweeper) and [Tic-Tac-Toe](https://github.com/gbelwariar/Self-Made-Projects/tree/master/Tic-Tac-Toe) have in-built test case generators. Hence no test case generators have been included with them.<br/>
 **5. Maintenance** -The projects are maintained from time to time.
-Majority of my projects have been published on [GeeksforGeeks](http://www.geeksforgeeks.org/) and is always at check by the heavy traffic of its readers.<br/>Any suggestions to improve the projects are welcome on gbelwariar@gmail.com or you can directly contribute by forking and sending a PR.<br/>
+Majority of my projects have been published on [GeeksforGeeks](http://www.geeksforgeeks.org/) and is always at check by the heavy traffic of its readers.<br/>Any suggestions to improve the projects are welcome on gbelwariar@gmail.com or can directly send a PR.<br/>
 
 
 ## My 10 Best Projects (in no specific order)
