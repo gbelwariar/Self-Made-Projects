@@ -20,7 +20,7 @@ string changeGender(string str)
 		{"his", "her"}, {"her", "his"},
 		{"male", "female"}, {"female", "male"},
 		{"man", "woman"}, {"woman", "man"},
-		{"Mr", "Ms"}, {"Mr", "Ms"},
+		{"Mr", "Ms"}, {"Ms", "Mr"},
 		{"sir", "madam"}, {"madam", "sir"},
 		{"son", "daughter"}, {"daughter", "son"},
 		{"uncle", "aunt"}, {"aunt", "uncle"},
